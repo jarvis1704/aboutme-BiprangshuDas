@@ -1,0 +1,13 @@
+{
+  
+  "scripts": {
+    "start": "vite",
+    "dev": "tailwind build style.css -i index.html -o /css/tailwind.css "
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "vite": "^5.0.12"
+  }
+}
