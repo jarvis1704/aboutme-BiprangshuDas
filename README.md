@@ -10,7 +10,8 @@ The project consists of a single HTML file `index.html` that contains the entire
 
 - Responsive design that works on both desktop and mobile devices.
 - Personal introduction and contact information.
-- Background image that covers the entire screen.
+- Background image that covers the entire screen and is web developer friendly.
+
 
 ## License
 
